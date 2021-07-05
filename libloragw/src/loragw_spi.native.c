@@ -55,7 +55,7 @@ Maintainer: Sylvain Miermont
 #define WRITE_ACCESS    0x80
 #define SPI_SPEED       8000000
 //#define SPI_DEV_PATH    "/dev/spidev0.0"
-#define SPI_DEV_PATH    "/dev/spidev32766.0"
+#define SPI_DEV_PATH    "/dev/spidev2.0"
 
 /* -------------------------------------------------------------------------- */
 /* --- PUBLIC FUNCTIONS DEFINITION ------------------------------------------ */
